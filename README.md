@@ -1,4 +1,6 @@
 📐 Geometry Guru
+
+
 Geometry Guru — bu geometrik shakllarning parametrlarini (yuza, perimetr, hajm) hisoblash uchun mo‘ljallangan interaktiv dastur/kutubxona. Loyiha ham o‘quvchilar, ham muhandislar uchun geometrik hisob-kitoblarni osonlashtirishni maqsad qilgan.
 
 ✨ Xususiyatlari
